@@ -1,0 +1,9 @@
+/* Custom CSS goes here */
+body {
+  padding-bottom: 70px;
+  }
+
+#name {
+  text-align: center;
+  color: #000000;
+}
